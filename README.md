@@ -1,1 +1,1 @@
-simple shell project for Biliyoung Aishino and Emmanuel Amubieya
+Simple shell group project for Biliyoung Aishino and Emmanuel Amubieya
